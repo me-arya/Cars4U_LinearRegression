@@ -6,6 +6,8 @@ There is a huge demand for used cars in the Indian Market today. As sales of new
 
 Objective
 
+LINEAR REGRESSION MODEL
+
 Explore and visualize the dataset.
 Build a linear regression model to predict the prices of used cars.
 Generate a set of insights and recommendations that will help the business.
